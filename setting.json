@@ -1,0 +1,113 @@
+{
+    "autoAdd": {
+        "status": true,
+        "message": "Hayoooo ketauan nge Add @!",
+        "reply": true
+    },
+    "autoJoin": {
+        "status": false,
+        "message": "Thnks udh Invite @!",
+        "reply": false,
+        "ticket": false
+    },
+    "members": 500,
+    "groupjoin": 150,
+    "namegrup": "lpm",
+    "autoRead": false,
+    "autoRespond": {
+        "status": false,
+        "message": "hello @!"
+    },
+    "autoRespondMention": {
+        "status": false,
+        "message": "already deactive"
+    },
+    "Addimage": false,
+    "runtime": 1584023403.734488,
+    "receivercount": 3827731,
+    "sendcount": 1991738,
+    "silent": [],
+    "protectkick": [],
+    "protectinvite": [],
+    "protectjoin": [],
+    "protectcancel": [],
+    "protectqr": [],
+    "whitelist": [
+        "u50a815493351f120ae10ed5340e3cbf9",
+        "ucc30848fde8b9c522b5263360a2d4e8e",
+        "ua2bd113fd83f87e365d1982264ac7ec6",
+        "uaca0867f47613d01473e4c0a466b1edf",
+        "ub619003be1343f43451515ee263d307c",
+        "ucf5314f949030da4fb3055ca8d24d3d0",
+        "u2022b824d6b3247a8c302b5548d4dcfa",
+        "u6bff82a2cc8613acfd80057eb58e93a8",
+        "ud9727b7cf726ce508c9d978c030a9f3d",
+        "ucd37d89b743d3aa6270a0cf342a5c3f2"
+    ],
+    "blacklist": [],
+    "selfbackup": [],
+    "livetime": [],
+    "liveview": [],
+    "Img": {},
+    "changeGroupPicture": [],
+    "wordban": [],
+    "changePictureProfile": false,
+    "changeCoverProfile": false,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "greet": {
+        "join": {
+            "status": false,
+            "message": "Welcome asw @!"
+        },
+        "leave": {
+            "status": false,
+            "message": "Yah kok leave asw @!"
+        }
+    },
+    "myProfile": {
+        "coverId": "5dac43158f7abf88c85bd30d944787e5",
+        "displayName": "arum",
+        "pictureStatus": "0hYJjzjGNCBmVXAxAOJOB5MmtGCAggLQAtL2YbVyEBXQByYBU2bGdNVHQAWVd7YUU3aGFNA3tXD1x_",
+        "statusMessage": ""
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "restartPoint": null,
+    "setKey": {
+        "status": false,
+        "key": ""
+    },
+    "copyright": "If you respect the author please don't remove this copyright\n\u00a9 2018 Hello World",
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404",
+    "setanCredit": "YOU CAN USE AND RUN THIS SELFBOT,\nBUT DONT REMOVE WEBAREBEAR MID OR CREDIT LINK\nTQ :)",
+    "dontRemove": "u337c18ad01bdc582a952bbabe1832644",
+    "dontRemove1": "https://lin.ee/hzZujuI",
+    "lable": "https://lin.ee/hzZujuI",
+    "changevp": false,
+    "changeProfileVideo": false,
+    "updateProfile": false,
+    "autolike": false,
+    "getpost": false,
+    "invitekontak": false,
+    "autokomen": false,
+    "checkalbum": false,
+    "detectlive": false,
+    "detectTemplate": false,
+    "unsendMessage": false,
+    "detectspam": false,
+    "mentionkick": false,
+    "getposttl": false,
+    "responcall": false,
+    "detectflex": false,
+    "detectflextext": false,
+    "detectimage": false,
+    "detectlocation": false,
+    "detectvideo": false,
+    "detectkick": false,
+    "autoLike": false
+}
